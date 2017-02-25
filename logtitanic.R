@@ -1,5 +1,4 @@
 
-setwd("C:\\Users\\Diaz\\Dropbox\\Udemy\\Rbootcamp\\R-Course-HTML-Notes\\R-Course-HTML-Notes\\R-for-Data-Science-and-Machine-Learning\\Machine Learning with R")
 
 
 library(Amelia)
